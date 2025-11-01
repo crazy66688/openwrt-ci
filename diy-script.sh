@@ -40,7 +40,6 @@ git_sparse_clone main https://github.com/Lienol/openwrt-package luci-app-filebro
 git_sparse_clone openwrt-18.06 https://github.com/immortalwrt/luci applications/luci-app-eqos
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
-git clone --depth=1 https://github.com/Aslin-Ameng/luci-app-access-control/tree/master/luci-app-access_control package/luci-app-access-control
 #git clone --depth=1 https://github.com/gdy666/luci-app-lucky package/lucky
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 #git clone https://github.com/sirpdboy/luci-app-timecontrol package/luci-app-timecontrol
